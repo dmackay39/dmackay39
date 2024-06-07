@@ -1,10 +1,13 @@
 ## Welcome to my github profile!
 
-# Project Themes
-- Spring
+## Project Themes
+- AI
+- REST APIs
+
+## Technologies
+- Java, Spring Framework and Spring Boot.
 - React
-- Generative AI
-- Machine Learning
+- Python and Jupyter Notebooks
 
 <!--
 **dmackay39/dmackay39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
