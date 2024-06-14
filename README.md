@@ -3,12 +3,14 @@
 ## Project Themes
 - AI
 - REST APIs
+- GUIs
 
 ## Technologies
 - Java, Spring Framework and Spring Boot
 - React
 - Python and Jupyter Notebooks
 - Docker
+- PostgreSQL, MySQL
 
 <!--
 **dmackay39/dmackay39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
