@@ -7,10 +7,10 @@
 
 ## Technologies
 - Java, Spring Framework and Spring Boot
-- React
+- React, Streamlit
 - Python and Jupyter Notebooks
 - Docker
-- PostgreSQL, MySQL
+- PostgreSQL, PgVector
 
 <!--
 **dmackay39/dmackay39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
