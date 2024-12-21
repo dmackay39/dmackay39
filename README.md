@@ -1,4 +1,7 @@
 ## Welcome to my github profile!
+See my new site!
+
+https://dmackay39.github.io/
 
 ## Project Themes
 - AI
